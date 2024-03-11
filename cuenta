@@ -1,0 +1,22 @@
+package cuenta_titular;
+
+public class cuenta {
+	
+	//defino titular y cantidad
+	
+	String titular;
+	int cantidad;
+	
+	//constructor
+	public cuenta (String titular, int cantidad) {
+		this.cantidad = cantidad;
+		this.titular = titular;
+		
+	}
+	
+	//ingresar y retirar
+	
+
+	
+
+}
